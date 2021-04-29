@@ -19,6 +19,6 @@ demos.
 
 This is a siple web project, deployment
 can be on any web server or even local
-file system.
+file system
 
 ## How to Contribute
