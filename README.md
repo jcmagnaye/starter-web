@@ -13,12 +13,12 @@ using a web project.
 
 As stated above, the main purpose is to
 provide simple examples for Git training
-demos.
+demos
 
 ## Deployment 
 
 This is a siple web project, deployment
 can be on any web server or even local
-file system
+file system.
 
 ## How to Contribute
